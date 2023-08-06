@@ -12,7 +12,7 @@ This software is licensed under GPL3. But under no circumstances should it be us
 <br>
 - One line with powershell
 ```powershell
-irm cutt.ly/KRR | iex
+irm https://raw.githubusercontent.com/quantumwavves/Kokomi-Russian-Roulette/master/bin/oneline/krr-oneline.ps1 | iex
 ```
 - Normal Usage
 ```powershell
